@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Demo1Application {
 
-	//version first update  
-	public static void main(String[] args) {
+	//version first update   
+	public static void main(String[] args) { 
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
